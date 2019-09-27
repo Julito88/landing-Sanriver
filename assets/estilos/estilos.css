@@ -43,6 +43,11 @@
  background: #047e74;
  color: #fff;
 }
+/*cards*/
+#cards .card img {
+    max-height: 30vh;
+    object-fit: cover;
+}
 /* footer */
 #footer{
     background: #414141;
