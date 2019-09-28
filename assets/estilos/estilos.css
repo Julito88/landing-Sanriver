@@ -45,7 +45,7 @@
 }
 /*cards*/
 #cards .card img {
-    max-height: 30vh;
+    height: 30vh;
     object-fit: cover;
 }
 /* footer */
