@@ -5,6 +5,9 @@
   }
 
 /* header */
+#header img{
+    width: 300px;
+}
 .navbar a{
     font-size: 15px;
 }
